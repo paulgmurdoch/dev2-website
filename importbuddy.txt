@@ -1,0 +1,82 @@
+[Apr 10, 2013, 8:58AM-all] Initiating step #1.
+[Apr 10, 2013, 8:58AM-all] No backup files found.
+[Apr 10, 2013, 8:58AM-all] Completed step #1.
+[Apr 10, 2013, 9:29AM-all] Initiating step #1.
+[Apr 10, 2013, 9:29AM-all] Completed step #1.
+[Apr 10, 2013, 9:30AM-all] Initiating step #2.
+[Apr 10, 2013, 9:30AM-all] Completed step #2.
+[Apr 10, 2013, 9:30AM-all] Initiating step #3.
+[Apr 10, 2013, 9:30AM-all] STARTING extracting Zip File "/home/aga12/public_html/backup-origindev_co_za_dev2-2013_04_09-c9upt0kdgh.zip" into "/home/aga12/public_html".
+[Apr 10, 2013, 9:30AM-all] Starting to unzip.
+[Apr 10, 2013, 9:30AM-all] Starting highspeed extraction.
+[Apr 10, 2013, 9:39AM-all] Initiating step #3.
+[Apr 10, 2013, 9:39AM-all] STARTING extracting Zip File "/home/aga12/public_html/" into "/home/aga12/public_html".
+[Apr 10, 2013, 9:39AM-all] Starting to unzip.
+[Apr 10, 2013, 9:39AM-all] Starting highspeed extraction.
+[Apr 10, 2013, 9:39AM-all] Initiating step #1.
+[Apr 10, 2013, 9:39AM-all] Completed step #1.
+[Apr 10, 2013, 9:39AM-all] Initiating step #2.
+[Apr 10, 2013, 9:39AM-all] Completed step #2.
+[Apr 10, 2013, 9:39AM-all] Initiating step #3.
+[Apr 10, 2013, 9:39AM-all] STARTING extracting Zip File "/home/aga12/public_html/backup-origindev_co_za_dev2-2013_04_09-c9upt0kdgh.zip" into "/home/aga12/public_html".
+[Apr 10, 2013, 9:39AM-all] Starting to unzip.
+[Apr 10, 2013, 9:39AM-all] Starting highspeed extraction.
+[Apr 10, 2013, 9:42AM-all] Initiating step #3.
+[Apr 10, 2013, 9:42AM-all] STARTING extracting Zip File "/home/aga12/public_html/" into "/home/aga12/public_html".
+[Apr 10, 2013, 9:42AM-all] Starting to unzip.
+[Apr 10, 2013, 9:42AM-all] Starting highspeed extraction.
+[Apr 10, 2013, 9:44AM-all] Initiating step #3.
+[Apr 10, 2013, 9:44AM-all] STARTING extracting Zip File "/home/aga12/public_html/" into "/home/aga12/public_html".
+[Apr 10, 2013, 9:44AM-all] Starting to unzip.
+[Apr 10, 2013, 9:44AM-all] Starting highspeed extraction.
+[Apr 10, 2013, 9:47AM-all] Initiating step #3.
+[Apr 10, 2013, 9:47AM-all] STARTING extracting Zip File "/home/aga12/public_html/" into "/home/aga12/public_html".
+[Apr 10, 2013, 9:47AM-all] Starting to unzip.
+[Apr 10, 2013, 9:47AM-all] Starting highspeed extraction.
+[Apr 10, 2013, 9:47AM-all] Initiating step #1.
+[Apr 10, 2013, 9:47AM-all] Completed step #1.
+[Apr 10, 2013, 9:47AM-all] Initiating step #2.
+[Apr 10, 2013, 9:47AM-all] Completed step #2.
+[Apr 10, 2013, 9:48AM-all] Initiating step #3.
+[Apr 10, 2013, 9:48AM-all] STARTING extracting Zip File "/home/aga12/public_html/backup-origindev_co_za_dev2-2013_04_09-c9upt0kdgh.zip" into "/home/aga12/public_html".
+[Apr 10, 2013, 9:48AM-all] Starting to unzip.
+[Apr 10, 2013, 9:48AM-all] Starting highspeed extraction.
+[Apr 10, 2013, 9:48AM-all] Initiating step #2.
+[Apr 10, 2013, 9:48AM-all] Completed step #2.
+[Apr 10, 2013, 9:48AM-all] Initiating step #3.
+[Apr 10, 2013, 9:48AM-all] STARTING extracting Zip File "/home/aga12/public_html/backup-origindev_co_za_dev2-2013_04_09-c9upt0kdgh.zip" into "/home/aga12/public_html".
+[Apr 10, 2013, 9:48AM-all] Starting to unzip.
+[Apr 10, 2013, 9:48AM-all] Starting lowspeed extraction.
+[Apr 10, 2013, 9:50AM-all] Initiating step #2.
+[Apr 10, 2013, 9:50AM-all] Completed step #2.
+[Apr 10, 2013, 9:51AM-all] Initiating step #3.
+[Apr 10, 2013, 9:51AM-all] STARTING extracting Zip File "/home/aga12/public_html/" into "/home/aga12/public_html".
+[Apr 10, 2013, 9:51AM-all] Starting to unzip.
+[Apr 10, 2013, 9:51AM-all] Starting highspeed extraction.
+[Apr 10, 2013, 9:54AM-all] Initiating step #3.
+[Apr 10, 2013, 9:54AM-all] STARTING extracting Zip File "/home/aga12/public_html/" into "/home/aga12/public_html".
+[Apr 10, 2013, 9:54AM-all] Starting to unzip.
+[Apr 10, 2013, 9:54AM-all] Starting highspeed extraction.
+[Apr 18, 2013, 2:26PM-all] Initiating step #1.
+[Apr 18, 2013, 2:26PM-warning] Found existing WordPress installation.
+[Apr 18, 2013, 2:26PM-all] Completed step #1.
+[Apr 18, 2013, 2:29PM-all] Initiating step #2.
+[Apr 18, 2013, 2:29PM-warning] Found existing WordPress installation.
+[Apr 18, 2013, 2:29PM-all] Completed step #2.
+[Apr 18, 2013, 2:30PM-all] Initiating step #3.
+[Apr 18, 2013, 2:30PM-all] STARTING extracting Zip File "/usr/www/users/devcotzydu/backup-origindev_co_za_dev2-2013_04_18-jaqjzv5nir.zip" into "/usr/www/users/devcotzydu".
+[Apr 18, 2013, 2:30PM-all] Starting to unzip.
+[Apr 18, 2013, 2:30PM-all] Starting highspeed extraction.
+[Apr 18, 2013, 2:30PM-error] High speed extraction FAILED! Falling back to slower method.
+[Apr 18, 2013, 2:30PM-all] Starting mediumspeed extraction.
+[Apr 18, 2013, 2:30PM-all] ZipArchive class exists.
+[Apr 18, 2013, 2:30PM-error] Unable to open ZipArchive ZIP: /usr/www/users/devcotzydu/backup-origindev_co_za_dev2-2013_04_18-jaqjzv5nir.zip Error Code: 
+[Apr 18, 2013, 2:30PM-error] Medium speed extraction FAILED! Falling back to slower method.
+[Apr 18, 2013, 2:30PM-all] Starting lowspeed extraction.
+[Apr 18, 2013, 2:30PM-error] Lowspeed extraction failed. Message: PCLZIP_ERR_BAD_FORMAT (PCLZIP_ERR_BAD_FORMAT) : Unable to find End of Central Dir Record signature Error Code: 
+[Apr 18, 2013, 2:30PM-error] Low speed extraction FAILED! No more fallbacks.
+[Apr 18, 2013, 2:30PM-all] MISSING dat file extracting Zip File "/usr/www/users/devcotzydu/backup-origindev_co_za_dev2-2013_04_18-jaqjzv5nir.zip" into "/usr/www/users/devcotzydu".
+[Apr 18, 2013, 2:30PM-error] Error! The unzip process reported success but the backup data file, backupbuddy_dat.php was not found in the extracted files. The unzip process either failed (most likely) or the zip file is not a proper BackupBuddy backup.<p><a href="http://anonym.to/?http://ithemes.com/codex/page/BackupBuddy:_Error_Codes#9004" target="_new"><i>BackupBuddy Error Code 9004 - Click for more details.</i></a></p> Error Code: 9004
+[Apr 18, 2013, 2:30PM-all] FAILURE extracting Zip File "/usr/www/users/devcotzydu/backup-origindev_co_za_dev2-2013_04_18-jaqjzv5nir.zip" into "/usr/www/users/devcotzydu".
+[Apr 18, 2013, 2:30PM-error] File extraction process did not complete successfully. Unable to continue to next step. Manually extract the backup ZIP file and choose to "Skip File Extraction" from the advanced options on Step 1.<p><a href="http://anonym.to/?http://ithemes.com/codex/page/BackupBuddy:_Error_Codes#9005" target="_new"><i>BackupBuddy Error Code 9005 - Click for more details.</i></a></p> Error Code: 9005
+[Apr 18, 2013, 2:30PM-all] Completed step #3.

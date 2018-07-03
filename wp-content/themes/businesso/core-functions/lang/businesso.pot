@@ -1,0 +1,754 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: businesso 1.0\n"
+"POT-Creation-Date: 2016-05-04 01:12+0530\n"
+"PO-Revision-Date: 2016-05-04 01:12+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "404"
+msgstr ""
+
+#: 404.php:13
+msgid "Oops! Page not found"
+msgstr ""
+
+#: 404.php:14
+msgid "We are sorry, but the page you are looking for doesnt exist."
+msgstr ""
+
+#: 404.php:15
+msgid "Go Back"
+msgstr ""
+
+#: asia_breadcrumbs.php:30 asia_breadcrumbs.php:41 asia_breadcrumbs.php:44
+#: core-functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr ""
+
+#: asia_breadcrumbs.php:47
+msgid "Archive category"
+msgstr ""
+
+#: blog-content.php:26
+msgid ", "
+msgstr ""
+
+#: blog-content.php:38 blog-content.php:40 content.php:27 content.php:30
+#: index.php:38 index.php:41 post-content.php:25 post-content.php:27
+#: search.php:30 search.php:32
+msgid "More"
+msgstr ""
+
+#: comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:8
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:8
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:24
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:25
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:35
+msgid "You must be"
+msgstr ""
+
+#: comments.php:35
+msgid "logged in"
+msgstr ""
+
+#: comments.php:35
+msgid "to post a comment"
+msgstr ""
+
+#: comments.php:60
+msgid "Logged in as "
+msgstr ""
+
+#: comments.php:60
+msgid " Log out?"
+msgstr ""
+
+#: comments.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:63
+msgid "Send Message"
+msgstr ""
+
+#: comments.php:66
+msgid "Leave a Reply"
+msgstr ""
+
+#: content.php:28 index.php:39 post-content.php:25 single.php:34
+msgid "Pages:"
+msgstr ""
+
+#: core-functions/comment-section/comment-function.php:12
+msgid "Reply"
+msgstr ""
+
+#: core-functions/comment-section/comment-function.php:21
+msgid "at"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:11
+msgid "Theme Options Settings"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:15
+msgid "Custom Header Settings"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:21 theme_default_data.php:7
+msgid "(2)245 23 68"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:27
+msgid "Header Headline :"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:33 theme_default_data.php:8
+msgid "asiathemes.com"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:39
+msgid "Header Text :"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:46
+msgid "Header Logo setting"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:64
+msgid "Upload a 250x50 for Logo Image"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:82
+msgid "Enable/Disabe Logo"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:103
+msgid "Enter Logo Width"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:121
+msgid "Enter Logo Height"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:143
+msgid "Show Logo text"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:150
+msgid "Custom css"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:163
+msgid "Custom css snippet:"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:173
+msgid "Featured Slider Settings"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:193
+msgid "Hide Home slider"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:216
+msgid "Upload Slider Image One"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:224
+#: core-functions/customizer/customizer-header.php:322
+#: core-functions/customizer/customizer-header.php:510
+#: theme_default_data.php:22 theme_default_data.php:26
+#: theme_default_data.php:30 theme_default_data.php:40
+msgid "businesso Responsive"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:230
+msgid "Slider Image Title one :"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:237
+#: core-functions/customizer/customizer-header.php:286
+#: core-functions/customizer/customizer-header.php:523
+#: core-functions/customizer/customizer-header.php:603
+#: core-functions/customizer/customizer-header.php:683
+#: theme_default_data.php:23 theme_default_data.php:27
+#: theme_default_data.php:31 theme_default_data.php:41
+#: theme_default_data.php:46 theme_default_data.php:51
+msgid "Duis autem vel eum iriure dolor in hendrerit in vulputate."
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:243
+msgid "Slider Image  Description One:"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:265
+msgid "Upload Slider Image Two"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:273
+#: core-functions/customizer/customizer-header.php:590
+#: theme_default_data.php:45
+msgid "Awesome Layout"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:279
+msgid "Slider Image Title Two"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:292
+msgid "Slider Image two Description :"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:314
+msgid "Upload Slider Image Three"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:328
+msgid "Slider Image Title Three"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:341
+msgid "Slider Image three Description"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:350
+#: theme_default_data.php:32
+msgid "More Details!"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:357
+msgid "Slider Button Text"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:371
+msgid "Slider Button Link"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:388
+msgid "Open New tab/window"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:402
+#: core-functions/customizer/customizer-header.php:734
+msgid "https://asiathemes.com"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:402
+msgid "Add more Slides take the Pro"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:419
+#: core-functions/customizer/customizer-header.php:751
+msgid "Discover businesso Pro"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:431
+msgid "3000"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:440
+msgid "Input slide Duration"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:448
+msgid "Home Portfolio Settings"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:466
+msgid "Enable/Disabe Home Portfolio"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:474
+#: theme_default_data.php:38
+msgid "Recent Works"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:480
+msgid "Portfolio Title One :"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:502
+msgid "Upload Portfolio Image One"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:516
+msgid "Portfolio Image One Title :"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:529
+msgid "Portfolio Image One Description :"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:543
+msgid "Portfolio Image One URL :"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:560
+#: core-functions/customizer/customizer-header.php:640
+#: core-functions/customizer/customizer-header.php:720
+msgid "Open Link New tab/window"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:582
+msgid "Upload Portfolio Image Two"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:596
+msgid "Portfolio Image Two Title :"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:609
+msgid "Portfolio Image two Description :"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:623
+msgid "Portfolio Image Two URL :"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:662
+msgid "Upload Portfolio Image Three"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:676
+msgid "Portfolio Image Three Title :"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:689
+msgid "Portfolio Image three Description :"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:703
+msgid "Portfolio Image Three URL :"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:734
+msgid "Add more portfolio take the Pro"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:763
+msgid "Home Latest Blog Posts Settings"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:785
+msgid "Hide Home Blog Posts Section"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:795
+#: theme_default_data.php:57
+msgid "Latest News"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:802
+msgid "Latest Blog Posts Section Heading title"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:812
+#: core-functions/customizer/customizer-header.php:823
+msgid "4"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:821
+msgid "Select Number of Post"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:823
+msgid "2"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:823
+msgid "6"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:823
+msgid "8"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:823
+msgid "10"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:823
+msgid "12"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:823
+msgid "14"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:823
+msgid "16"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:833
+msgid "Footer Customization"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:840
+msgid "@ 2016 Businesso Wordpress Theme"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:846
+msgid "Footer Customization Text"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:852
+#: core-functions/customizer/customizer-header.php:900
+#: core-functions/customizer/customizer-header.php:924
+msgid "Upgrade to businesso Premium"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:863
+msgid "businesso Premium"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:906
+msgid "businesso Premium - Features"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:908
+msgid "One Year Free Support "
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:909
+#: core-functions/option-panel/becorp-option-setting.php:55
+msgid "Responsive Design"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:910
+msgid "More than 10 Templates"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:911
+msgid "3 Types of Portfolio Templates"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:912
+msgid "8 types Themes Colors Scheme"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:913
+#: core-functions/option-panel/becorp-option-setting.php:56
+msgid "Patterns Background"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:914
+msgid "WPML Compatible"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:915
+msgid "Image Background"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:916
+msgid "Ultimate Portfolio layout with Taxonomy Tab effect"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:917
+#: core-functions/option-panel/becorp-option-setting.php:53
+msgid "Translation Ready"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:918
+#: core-functions/option-panel/becorp-option-setting.php:54
+msgid "Coming Soon Mode"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:919
+#: core-functions/option-panel/becorp-option-setting.php:50
+msgid "Google Fonts"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:926
+msgid "Enjoying With businesso"
+msgstr ""
+
+#: core-functions/customizer/customizer-header.php:929
+#, php-format
+msgid ""
+"If you Like our Products , Please do Rate us on %sWordPress.org%s?  We'd "
+"really appreciate it!"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:3
+#: core-functions/option-panel/becorp-option-setting.php:21
+msgid "businesso"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:3
+msgid "About Theme"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:21
+msgid "Premium"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:22
+msgid "Get Our"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:22
+msgid "Premium Theme"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:28
+msgid "Our Latest Features"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:31
+msgid "18 Templates pages"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:32
+msgid "8 types Colours Schemes"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:33
+msgid "6 types Awesome Portfolio &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Page Templates"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:34
+msgid ""
+"Portfolio Page Templates &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with awesome Photo-"
+"box &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Slider"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:35
+msgid "One Most GALLERY page &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; portfolio template"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:36
+msgid ""
+"One most new feature &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enable/"
+"Disable animation"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:37
+msgid ""
+"Two variation with Latest &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; feature Dark & "
+"Light &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; variation"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:38
+msgid "3 types Awesome Home &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pages Templates"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:39
+msgid "Latest Team page Template"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:40
+msgid "2 types Awesome Contact &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pages Templates"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:47
+msgid "2 types Awesome Service &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pages Templates"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:48
+msgid ""
+"7 Types Of Blog  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Templates"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:49
+msgid "One Year Free Support"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:51
+msgid "Bootstrap Slider"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:52
+msgid ""
+"Ultimate Portfolio layout &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Taxonomy Tab "
+"effect"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:57
+msgid "Full Width & Boxed Layout"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:58
+msgid ""
+"Woo-commerce Plug-in &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; compatible is "
+"coming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; soon"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:59
+msgid "Awesome Shortcodes is &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; coming soon "
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:66
+msgid "View businesso Pro Demo"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:67
+msgid "Upgrade to businesso Pro"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:76
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:77
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:81
+#, php-format
+msgid ""
+"3. %s Theme Customizer for all settings of theme . Click <b style=\"color:"
+"#a0ce4e;\"> \"Customize Theme\" </b> or Click on given below strip <b style="
+"\"color:#a0ce4e;\">\"View Customizer\"</b> Button to open the Customizer now."
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:85
+msgid " Child Theme"
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:92
+msgid ""
+"We have add all the option Settings inside the customiser, this is powerfull "
+"utility of WordPress, with the help of this you can create your site with "
+"live preview, ie customizer will provide you the current time preview. We "
+"have not changed any structure so you will still be able to access the "
+"previously configured data."
+msgstr ""
+
+#: core-functions/option-panel/becorp-option-setting.php:99
+msgid "View Customizer"
+msgstr ""
+
+#: core-functions/widgets/register-sidebar.php:7
+msgid "Sidebar Data"
+msgstr ""
+
+#: core-functions/widgets/register-sidebar.php:9
+msgid "The primary widget area"
+msgstr ""
+
+#: core-functions/widgets/register-sidebar.php:18 template-tags.php:81
+msgid "Footer Widget Area"
+msgstr ""
+
+#: core-functions/widgets/register-sidebar.php:20 template-tags.php:83
+msgid "footer widget area"
+msgstr ""
+
+#: functions.php:39
+msgid "Primary Menu"
+msgstr ""
+
+#: header.php:45
+msgid "Toggle navigation"
+msgstr ""
+
+#: search.php:39
+msgid "Ooops!!... Post Not Found"
+msgstr ""
+
+#: search.php:42
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-tags.php:23
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: template-tags.php:25
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: template-tags.php:27
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: template-tags.php:29
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: template-tags.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: template-tags.php:33
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: template-tags.php:35
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: template-tags.php:39
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: template-tags.php:43
+msgid "Error 404  : Page Not Found"
+msgstr ""
+
+#: template-tags.php:144
+msgid "Post navigation"
+msgstr ""
+
+#: template-tags.php:154
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: template-tags.php:158
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: theme_default_data.php:50
+msgid "Businesso Responsive"
+msgstr ""
+
+#: theme_default_data.php:61
+msgid "@ 2016 Businesso Wordpress Theme "
+msgstr ""

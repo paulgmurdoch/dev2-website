@@ -1,0 +1,84 @@
+// Some colours. Chop and change at will :)
+// Grays
+@white:             #fff;
+@grayLighter:       #c1c1c1;
+@grayLight:         #777;
+@gray:              #555;
+@grayDark:          #333;
+@black:             #000;
+
+// Error state colors
+@error : 						#b91e00;
+@errorBG: 					#FEF5F1;
+
+// white text shadow
+.text-shadow() {
+	text-shadow: 0 1px 2px @white;
+}
+.zoom() {
+	zoom: 1;
+	display: inline;
+}
+// CSS3 Mixins
+.box-shadow(@x-axis: 0, @y-axis: 1px, @blur: 3px,  @spread: 0px, @colorR: 0, @colorG: 0, @colorB: 0,  @alpha: 0.4) {
+  -webkit-box-shadow: @x-axis @y-axis @blur @spread rgba(@colorR, @colorG, @colorB, @alpha);
+  -moz-box-shadow: @x-axis @y-axis @blur @spread rgba(@colorR, @colorG, @colorB, @alpha);
+  box-shadow: @x-axis @y-axis @blur @spread rgba(@colorR, @colorG, @colorB, @alpha);
+}
+.inner-shadow(@horizontal:0, @vertical:1px, @blur:2px, @colorR: 0, @colorG: 0, @colorB: 0,  @alpha: 0.4) {
+  -webkit-box-shadow: inset @horizontal @vertical @blur rgba(@colorR, @colorG, @colorB, @alpha);
+  -moz-box-shadow: inset @horizontal @vertical @blur rgba(@colorR, @colorG, @colorB, @alpha);
+  box-shadow: inset @horizontal @vertical @blur rgba(@colorR, @colorG, @colorB, @alpha);
+}
+.rounded(@radius: 10px) {
+  -webkit-border-radius: @radius;
+  -moz-border-radius: @radius;
+  border-radius: @radius;
+  -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box; 
+}
+.border-radius(@topleft: 0, @topright: 0, @bottomleft: 0, @bottomright: 0) {
+  -webkit-border-radius:  @topleft @topright @bottomright @bottomleft ;
+  -moz-border-radius:  @topleft @topright @bottomright @bottomleft ;
+  border-radius: @topleft @topright @bottomright @bottomleft;
+  -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box; 
+}
+.opacity(@opacity: 0.5) {
+  -moz-opacity: @opacity;
+  -webkit-opacity: @opacity;
+  opacity: @opacity;
+}
+.transition-duration(@duration: 0.2s) {
+  -moz-transition-duration: @duration;
+  -o-transition-duration: @duration;  
+  -ms-transition-duration: @duration;    
+  -webkit-transition-duration: @duration;
+  transition-duration: @duration;
+}
+.rotation(@deg:5deg){
+  -webkit-transform: rotate(@deg);
+  -o-transform: rotate(@deg);
+  -ms-transform: rotate(@deg);
+  -moz-transform: rotate(@deg);
+  transform: rotate(@deg);
+}
+.scale(@ratio:1.5){
+  -webkit-transform:scale(@ratio);
+  -o-transform:scale(@ratio);
+  -ms-transform:scale(@ratio);
+  -moz-transform:scale(@ratio);
+  transform:scale(@ratio);
+}
+.transition(@duration:0.2s, @ease:ease-in) {
+	-webkit-transition: all @duration @ease;
+	-moz-transition: all @duration @ease;
+	-ms-transition: all @duration @ease;
+	-o-transition: all @duration @ease;
+	transition: all @duration @ease;
+}
+.translate(@x:0, @y:0) {
+  -moz-transform: translate(@x, @y);
+  -webkit-transform: translate(@x, @y);
+  -o-transform: translate(@x, @y);
+  -ms-transform: translate(@x, @y);
+  transform: translate(@x, @y);
+}

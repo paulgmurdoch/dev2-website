@@ -1,0 +1,24 @@
+<?php get_header();?>
+</div>
+</div>
+
+<div class="block block-pager">
+  <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+  <div class="holder">
+    <div class="frame">
+      <h1><span>
+        <?php the_title();?>
+        </span></h1>
+      <?php echo cleanspace_breadcrumbs(); ?> </div>
+  </div>
+  
+</div>
+<div id="main" class="main-inner">
+  <div id="content" class="content-inner">
+    <?php the_content();?>
+  </div>
+  <?php endwhile; endif;?>
+  <?php get_sidebar();?>
+</div>
+</div>
+<?php get_footer();?>

@@ -1,0 +1,181 @@
+// ----------
+// Typography
+// ----------
+
+// Headings
+h1, h2, h3 { color: black;}
+
+h1 {}
+h2 { 
+	margin: 0 0 .4em 0;
+	color: #4c4c4c;
+	font-size: 1.73em;
+	font-weight: normal;
+	}
+
+//Hyperlinks and buttons
+a {
+	color: #229239;
+	text-decoration: none;
+	&:visited {  }
+
+	&:hover, &:focus { text-decoration: underline;  }
+
+	&:focus { outline: thin dotted;}
+
+	&:hover, &:active { outline: 0; }
+}
+
+// ---------------
+// All site layout 
+// ---------------
+
+// Page Wrapper
+#container {
+	width: 710px;
+	margin: auto;
+}
+
+// Site Banner
+#banner {
+	text-align: center;
+	position: relative;
+	img {
+		display: inline-block;
+	}
+}
+
+// the questions for your type
+.tickMyBoxes {
+	padding: 20px;
+	background: #cfcfcf;
+	-webkit-box-shadow:  inset -1px -1px 3px 0px rgba(0, 0, 0, .7), inset 1px 1px 3px 0px rgba(255, 255, 255, .7);
+	box-shadow: inset -1px -1px 3px 0px rgba(0, 0, 0, .7), inset 1px 1px 3px 0px rgba(255, 255, 255, .7);		
+
+	h2 {
+		color: #4c4c4c;
+		font-size: 1.7em;
+	}
+	
+	ol {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		li {
+			margin: 0 0 1em 0;
+			padding: 0;
+			cursor: pointer;
+			
+			font-weight: bold;
+			&:hover { color: #22973a;}
+			
+			span {
+				display: inline-block;
+				vertical-align: bottom;
+				height: 25px;
+				width: 21px;
+				margin: 0 5px 0 0;
+				background:url(../img/tickBox.png) no-repeat 0 0;
+			}
+			&.ticked {
+				cursor:default;
+				span { background-position: 0 -25px; }
+			}
+		}	
+	}
+}
+
+.ie7 .tickMyBoxes ol li span { .zoom;}
+
+// Displays the checkboxes for 'your type'
+.yourTypeHere {
+	width: 305px;
+	padding: 18px 10px 18px 10px;
+	float: left;
+	background: #31c052;
+	background: -moz-linear-gradient(top, #31c052 0%, #1a742c 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#31c052), color-stop(100%,#1a742c));
+	background: -webkit-linear-gradient(top, #31c052 0%,#1a742c 100%);
+	background: -o-linear-gradient(top, #31c052 0%,#1a742c 100%);
+	background: -ms-linear-gradient(top, #31c052 0%,#1a742c 100%);
+	background: linear-gradient(top, #31c052 0%,#1a742c 100%);
+
+	-webkit-box-shadow:  4px 4px 8px 0px rgba(0, 0, 0, .1), inset -1px -1px 3px 0px rgba(0, 0, 0, .7);	
+	box-shadow:  4px 4px 8px 0px rgba(0, 0, 0, .1), inset -1px -1px 3px 0px rgba(0, 0, 0, .7);	
+	
+	h2, a {
+		color: white;
+		font-size: 18px;		
+	}
+}
+.ie7 .yourTypeHere { width: 200px;}
+
+
+// the counter at the bottom of the page
+.counter {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	li {
+		display: block;
+		float: left;
+		margin: 0 2px 0 0;
+		padding: 0;
+		width: 15px;
+		height: 14px;
+		background:url(../img/checkbox.png) no-repeat 0 0;
+		
+		&.checked {
+			background-position: -15px 0;		
+		}
+	}
+}
+
+// social media links
+.socialLinks {
+	float: left;
+	width: 400px;
+	padding: 14px;
+	* { float: left;}
+	p { margin: 0 0 10px 0; clear: both; float: none;}
+}
+.fb-like { margin-bottom: 10px;}
+
+// Site Footer
+.footerWrapper {
+	background: #dfdfdf;
+	padding: 15px 0 30px 0;
+	margin: 45px 0 0 0;
+}
+
+#footer {
+	clear: both;
+	width: 890px;
+	margin: auto;
+
+	h2 {
+		font-size: 1em;
+		color: #626262;
+	}
+
+	p {
+		font-size: .86em;
+		display: block;
+		border-left: solid 2px #1c7a2f;
+		margin: 0 0 0 18px;
+		padding: 0 0 0 10px;
+	}
+
+	.textCol {
+		width: 330px;
+	}
+}
+
+.col {float: left;}
+
+#googleMap { 
+ width: 200px; 
+ height: 100px;
+ border: solid 2px #1c7a2f;
+ margin-left: 20px;
+}

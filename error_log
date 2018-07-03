@@ -1,0 +1,13 @@
+[10-Apr-2013 09:30:09 Africa/Johannesburg] PHP Warning:  exec() has been disabled for security reasons in /home/aga12/public_html/importbuddy.php on line 1504
+[10-Apr-2013 09:39:18 Africa/Johannesburg] PHP Warning:  exec() has been disabled for security reasons in /home/aga12/public_html/importbuddy.php on line 1504
+[10-Apr-2013 09:39:40 Africa/Johannesburg] PHP Warning:  exec() has been disabled for security reasons in /home/aga12/public_html/importbuddy.php on line 1504
+[10-Apr-2013 09:42:32 Africa/Johannesburg] PHP Warning:  exec() has been disabled for security reasons in /home/aga12/public_html/importbuddy.php on line 1504
+[10-Apr-2013 09:44:51 Africa/Johannesburg] PHP Warning:  exec() has been disabled for security reasons in /home/aga12/public_html/importbuddy.php on line 1504
+[10-Apr-2013 09:47:30 Africa/Johannesburg] PHP Warning:  exec() has been disabled for security reasons in /home/aga12/public_html/importbuddy.php on line 1504
+[10-Apr-2013 09:48:00 Africa/Johannesburg] PHP Warning:  exec() has been disabled for security reasons in /home/aga12/public_html/importbuddy.php on line 1504
+[10-Apr-2013 09:51:14 Africa/Johannesburg] PHP Warning:  exec() has been disabled for security reasons in /home/aga12/public_html/importbuddy.php on line 1504
+[10-Apr-2013 09:54:00 Africa/Johannesburg] PHP Warning:  exec() has been disabled for security reasons in /home/aga12/public_html/importbuddy.php on line 1504
+[10-Apr-2013 09:15:59 UTC] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 491520 bytes) in /home/aga12/public_html/wp-includes/script-loader.php on line 252
+[10-Apr-2013 12:34:45 Africa/Johannesburg] PHP Fatal error:  Maximum execution time of 3600 seconds exceeded in /home/aga12/public_html/importbuddy.php on line 5799
+[10-Apr-2013 10:51:39 UTC] PHP Fatal error:  Out of memory (allocated 37748736) (tried to allocate 30720 bytes) in /home/aga12/public_html/wp-content/plugins/contact-form-7/modules/captcha.php on line 378
+[10-Apr-2013 11:14:56 UTC] PHP Fatal error:  Out of memory (allocated 21757952) (tried to allocate 491520 bytes) in /home/aga12/public_html/wp-content/plugins/events-manager/events-manager.php on line 374

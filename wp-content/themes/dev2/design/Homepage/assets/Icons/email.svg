@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="33px" viewBox="0 0 32 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Email</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(-721.000000, -3607.000000)" id="Group-15" stroke="#FFFFFF" stroke-width="1.5">
+            <g transform="translate(528.000000, 3599.000000)">
+                <g id="Group-10" transform="translate(193.000000, 0.000000)">
+                    <g id="Icons/Email" transform="translate(20.646447, 20.353553) rotate(45.000000) translate(-20.646447, -20.353553) translate(7.646447, 4.853553)">
+                        <polygon id="rect4529" points="12.6285714 0.367614118 25.2571429 30.2470569 12.6285714 24.5828122 0 30.2470569"></polygon>
+                        <path d="M12.6266641,1.970208 L12.5687399,24.6830664" id="path4532"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

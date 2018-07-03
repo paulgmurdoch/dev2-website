@@ -1,0 +1,19 @@
+/*
+    Theme Name: dev2
+    Theme URI: http://dev2.co.za/
+    Author: DigitLab
+    Author URI: https://digitlab.co.za/
+    Description: A custom build Wordpress theme for dev2
+    Version: 0.1
+    Text Domain: dev2
+*/
+
+/*
+    All CSS is defined in the custom.css file that is compiled from the various sass files, this file is for notes and a Wordpress requirement. */
+
+/*
+    cd into the /resources/sass folder and from there run the following command:
+    sass --watch custom.scss:../../custom.css --style compressed
+
+    This will compile and minify all the sass and save a custom.css file in the theme root folder as well as generate the map file.
+*/

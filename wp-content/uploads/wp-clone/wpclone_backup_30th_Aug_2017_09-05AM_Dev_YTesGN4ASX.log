@@ -1,0 +1,20 @@
+Wednesday, 30-Aug-2017 09:05:39 - backup started
+Wednesday, 30-Aug-2017 09:05:39 - wp version     : 4.2.15
+Wednesday, 30-Aug-2017 09:05:39 - php version    : 5.6.31-1~dotdeb+7.1
+Wednesday, 30-Aug-2017 09:05:39 - mysql version  : 5.5.5
+Wednesday, 30-Aug-2017 09:05:39 - memory limit   : 1024M
+Wednesday, 30-Aug-2017 09:05:39 - execution time : 600
+Wednesday, 30-Aug-2017 09:05:39 - mysql timeout  : 600
+Wednesday, 30-Aug-2017 09:05:39 - socket timeout : 600
+Wednesday, 30-Aug-2017 09:05:39 - files larger than 25 MB will be excluded from the backup
+Wednesday, 30-Aug-2017 09:05:39 - generating file list
+Wednesday, 30-Aug-2017 09:05:42 - file skipped, file is larger than 25 MB - "**SITE-ROOT**/wp-content/uploads/backupbuddy_backups/backup-dev2_co_za-2013_10_29-full-hne5nexbfn.zip"  232.6 MB
+Wednesday, 30-Aug-2017 09:05:42 - 1 files were excluded from the backup
+Wednesday, 30-Aug-2017 09:05:42 - number of files to include in the archive is 5460, and their uncompressed size is 166.01 MB
+Wednesday, 30-Aug-2017 09:05:42 - finished generating file list
+Wednesday, 30-Aug-2017 09:05:42 - database backup started
+Wednesday, 30-Aug-2017 09:05:42 - backing up tables with "wp_" prefix
+Wednesday, 30-Aug-2017 09:05:42 - number of tables to backup - 55
+Wednesday, 30-Aug-2017 09:05:43 - database backup finished
+Wednesday, 30-Aug-2017 09:05:43 - archiving files using ziparchive
+Wednesday, 30-Aug-2017 09:06:29 - backup finished

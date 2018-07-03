@@ -1,0 +1,22 @@
+*+html .block-features .box {
+	display:inline;
+	zoom:1;
+}
+*+html .work-box{
+	display:inline;
+	zoom:1;
+}
+.w1 {
+	min-height:100%;
+}
+.w1 .w1-holder {
+padding-bottom:expression(document.getElementById("footer").offsetHeight + "px");
+}
+#footer {
+	position:relative;
+ margin-top:expression(- this.offsetHeight + "px");
+}
+input.text, textarea { box-shadow:none; display:block; background: none repeat scroll 0 0 #fff; border: 1px solid #ccc; padding: 8px; /*width:420px;*/ margin:5px 0 19px 4px; font-family: 'Antic', sans-serif; font-size:14px; line-height:2em; color:#485660; }
+.twitter { position:relative; padding:15px; margin: 70px 15px 30px 0px; color:#555; border:1px solid #ccc; background: none repeat scroll 0 0 #fff; font-size:14px; box-shadow:none }
+#sidebar .search .area { float:left; display:block; background: none repeat scroll 0 0 #fff; border: 1px solid #ccc; margin:10px 2px 19px 2px; font-family: 'Antic', serif; font-size:14px; color:#485660; width:252px; height:20px; box-shadow:none;}
+#footer .section-1 .box { display:inline-block; margin: 0px 28px 0px 0px; width:280px; vertical-align:top; color:#999; font-size:14px; }

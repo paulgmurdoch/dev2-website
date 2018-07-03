@@ -1,0 +1,21 @@
+Wednesday, 30-Aug-2017 11:28:26 - restore started
+Wednesday, 30-Aug-2017 11:28:26 - wp version     : 4.8.1
+Wednesday, 30-Aug-2017 11:28:26 - php version    : 5.6.31-1~dotdeb+7.1
+Wednesday, 30-Aug-2017 11:28:26 - mysql version  : 5.5.5
+Wednesday, 30-Aug-2017 11:28:26 - memory limit   : 1024M
+Wednesday, 30-Aug-2017 11:28:26 - execution time : 600
+Wednesday, 30-Aug-2017 11:28:26 - mysql timeout  : 600
+Wednesday, 30-Aug-2017 11:28:26 - socket timeout : 600
+Wednesday, 30-Aug-2017 11:28:26 - file exists in the backup folder, filesize - 34.57 MB
+Wednesday, 30-Aug-2017 11:28:26 - extracting database using ziparchive
+Wednesday, 30-Aug-2017 11:28:26 - database import started
+Wednesday, 30-Aug-2017 11:28:27 - updating mysql query with current site's url - new query : "INSERT INTO wp_options VALUES("1", "siteurl", "http://dev2.co.za", "yes")"
+Wednesday, 30-Aug-2017 11:28:38 - mysql query failed. error : 1065 Query was empty - query : ""
+Wednesday, 30-Aug-2017 11:28:38 - database import finished
+Wednesday, 30-Aug-2017 11:28:38 - search and replace started
+Wednesday, 30-Aug-2017 11:28:38 - there are 56 tables to scan
+Wednesday, 30-Aug-2017 11:28:39 - search and replace finished
+Wednesday, 30-Aug-2017 11:28:39 - extracting archive using ziparchive
+Wednesday, 30-Aug-2017 11:28:40 - copying files..
+Wednesday, 30-Aug-2017 11:28:43 - deleting temp directory..
+Wednesday, 30-Aug-2017 11:28:44 - restore finished
