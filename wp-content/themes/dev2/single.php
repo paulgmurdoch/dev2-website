@@ -21,6 +21,9 @@ get_header();
     .postsWrapper a:hover {
         color: #208538 !important;
     }
+    .cat-item {
+        list-style: none;
+    }
 </style>
 
 <div class="container" style="padding-bottom: 0px; padding-top: 15px;">
