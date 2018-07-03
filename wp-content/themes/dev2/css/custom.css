@@ -575,6 +575,7 @@ input[type=text]:focus, input[type=email]:focus, textarea:focus {
 .post h2 {
     margin: 20px 0px 0px 0px;
     color: #20913B;
+    text-transform: uppercase;
 }
 footer .footer-container {
     padding-top: 30px;
